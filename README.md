@@ -1,6 +1,6 @@
 # Climate-Change-News-Scrapping
 Climate change News Scrapping &amp; Analysis
 </br>
-|![Yahoo News Scrapper] | ![Google News Scrapper] | ![Twitter News Scrapper]
+|![Yahoo News Scrapper](https://github.com/Wycliffe-Mwebi/Climate-Change-News-Scrapping/tree/main/Yahoo_News_Scrapper) | ![Google News Scrapper] | ![Twitter News Scrapper]
 </br>
 ![screenshot](climate.jpg)
