@@ -1,6 +1,5 @@
-# Climate-Change-News-Scrapping
-Climate change News Scrapping &amp; Analysis
+# Web Scrapping Projects
+Web scraping is the process of collecting or extracting data from the web. This repo contains scraping projects that I have been working on, it includes scraping data from web, pdf files or other sources.
 </br>
-|[Yahoo News Scrapper](https://github.com/Wycliffe-Mwebi/Climate-Change-News-Scrapping/tree/main/Yahoo_News_Scrapper)   |    [Google News Scrapper](https://github.com/Wycliffe-Mwebi/Climate-Change-News-Scrapping/tree/main/Google_News_Scrapper)    |    [Twitter News Scrapper]
-</br>
-![screenshot](climate.jpg)
+
+
