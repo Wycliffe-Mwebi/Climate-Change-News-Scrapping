@@ -1,7 +1,7 @@
 # Scraping IMDB Top rated Movies
 IMDb (an acronym for Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online — including cast, production crew, and personal biographies, plot summaries, trivia, ratings, and fan, and critical reviews.
 
-
+Here's a step-by-step outline of this project:
 1. Download the webpage using requests
 2. Parse the HTML source code using beautiful Soup
 3. Extract topic names, descriptions, and URLs from page
