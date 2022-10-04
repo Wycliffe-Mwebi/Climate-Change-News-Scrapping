@@ -6,5 +6,4 @@ In today’s crowded information landscape, mainstream news media continue to pl
 <br />
 In this project, I have attempted to webscrap all news articles on climate change from yahoo news website.
 </br>
-![Screenshot](yahoo_result_pic.jpg)
 
